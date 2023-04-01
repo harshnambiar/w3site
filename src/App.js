@@ -50,7 +50,7 @@ function App() {
       </head>
       <body class="home">
         <div class="pageHeader homeHeader">
-          <a class="walletBtn" href="https://icpverse.app/dist/pre.html">Register Me!</a>
+          <a class="walletBtn" href="https://goodmint.club">GoodMint Login</a>
         </div>
         
         <div class="homeWrapper">
@@ -65,7 +65,7 @@ function App() {
             </div>
           </div>
           <br/><br/>
-          <div class="homeText2">Pre Registrations are Now Open!</div>
+          <div class="homeText2">GoodMint is now LIVE!</div>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
